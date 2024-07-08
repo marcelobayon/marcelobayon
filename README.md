@@ -23,7 +23,7 @@ PERSONAL
 My values are integrity, passion for winning, tenacity, moxie, and perpetual improvement. I am a strategic thinker with demonstrated ability to innovate and problem solve.
 
 📞801-971-4338
-📧MBAYON@USFWHOLESALE.NET
+📧KawsahTech@gmail.com
 TWITTER @MarceloBayon 
 GITHUB : https://github.com/marcelobayon
 
