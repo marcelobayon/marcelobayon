@@ -5,7 +5,6 @@ KEY POINTS:
 - 💞️ I’m looking to collaborate on open-source projects, start ups, and the LATINX community.
 - 📫 The best way to reach me is through email, text, phone, or my social media.
 
-
 CAREER SUMMARY: 
  
 My career has been a mix of operational leadership and entrepreneurship. My experience in operations has allowed me to develop adult behavior modification skills like PACE coaching and Neuro Linguistic Programming. My entrepreneurship experience has helped me develop my sales and marketing skills, as well as my software development skills.
@@ -26,7 +25,6 @@ My values are integrity, passion for winning, tenacity, moxie, and perpetual imp
 📧KawsahTech@gmail.com
 TWITTER @MarceloBayon 
 GITHUB : https://github.com/marcelobayon
-
 
 <!---
 marcelobayon/marcelobayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
